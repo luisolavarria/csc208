@@ -7,3 +7,12 @@
 **Implication Definition:**  
 P $\to$ Q  
 Where P is an statement and Q is a conclusion.
+
+Conditional:     
+    IF P THEN Q  
+Inverse:     
+    IF ~P THEN ~Q  
+Converse:  
+ IF Q THEN P    
+Contrapositive:  
+   IF ~Q THEN ~P
