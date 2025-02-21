@@ -7,4 +7,7 @@
      
 ****Modus Tollens:****  
 
-If A implies B is true, and if B is false, then A is false (modus tollens).
+If A implies B is true, and if B is false, then A is false .  
+
+Logic Equivalence:  
+Two STATEMENT are IDENTICAL, when their TRUE TABLE are IDENTICAL.
