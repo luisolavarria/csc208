@@ -1,0 +1,1 @@
+direct proof, proof by contrapositive, and proof by contradiction.
