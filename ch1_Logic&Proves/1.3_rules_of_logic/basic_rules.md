@@ -55,15 +55,15 @@ To prove an implication \( P \Rightarrow Q \), assume \( P \) is true and deduce
 
 ### **Logical Equivalences**
 - **Contrapositive Equivalence**:
-  - \( P \Rightarrow Q \equiv \neg Q \Rightarrow \neg P \)
+  - \($ P \to Q$ = ~ $Q \to ~ P $\)
 - **De Morgan's Laws**:
-  - \( \neg (P \land Q) \equiv \neg P \lor \neg Q \)
-  - \( \neg (P \lor Q) \equiv \neg P \land \neg Q \)
+  - \($ ~ (P \land Q) = ~ P \lor ~ Q$ \)
+  - \( $~ (P \lor Q) = ~ P \land ~ Q$ \)
 - **Implications as Disjunctions**:
-  - \( P \Rightarrow Q \equiv \neg P \lor Q \)
+  - \($ P \to Q $= ~ P \lor Q \)
 - **Double Negation**:
-  - \( \neg \neg P \equiv P \)
+  - \( ~ ~ P = P \)
 
 ### **Equivalence of Quantified Statements**
-- \( \neg \forall x P(x) \equiv \exists x \neg P(x) \)
-- \( \neg \exists x P(x) \equiv \forall x \neg P(x) \)
+- \( ~$ \forall x P(x)$ $\equiv \exists x ~ P(x)$ \)
+- \( ~ $\exists x P(x) \equiv \forall x ~ P(x)$ \)
