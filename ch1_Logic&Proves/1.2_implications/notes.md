@@ -16,3 +16,4 @@ Converse:
  IF Q THEN P    
 Contrapositive:  
    IF ~Q THEN ~P
+   

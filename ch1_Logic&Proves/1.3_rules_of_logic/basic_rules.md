@@ -1,15 +1,15 @@
-********Notes********  
+# Notes]
 
 
-****Modus Ponens:**** 
+ ### Modus Ponens: 
 
    If A implies B is true and if A is true, then B is true. 
      
-****Modus Tollens:****  
+### Modus Tollens:  
 
 If A implies B is true, and if B is false, then A is false .  
 
-Logic Equivalence:  
+### Logic Equivalence:  
 Two STATEMENT are IDENTICAL, when their TRUE TABLE are IDENTICAL.
 
 # **Rules of Logic (1:3)**
