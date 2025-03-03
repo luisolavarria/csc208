@@ -15,3 +15,5 @@ $ B = {a, b, c, d} $
  , and C be sets, and assume that $ A \subseteq B $ and $B \subseteq C$.
  We will prove that $A \subseteq C$.
 ### Intersection
+
+
