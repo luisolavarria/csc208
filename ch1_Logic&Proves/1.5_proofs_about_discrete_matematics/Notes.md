@@ -48,7 +48,7 @@ Both logic and mathematical reasoning are essential in proof writing. Developing
 
 ### Definitions
 - **Set**: An unordered collection of elements.
-- **Element chasing**: Basically syllogism.
+- **Element chasing**: syllogism.
 - **Injective**: No element of one set is the output of more than one input of another set (one-to-one).
 - **Domain**: Inputs of a function.
 - **Codomain**: Outputs of a function.
