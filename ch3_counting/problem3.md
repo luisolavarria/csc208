@@ -1,4 +1,4 @@
-# Exercise number 4: #
+# Exercise number 3: #
   
 A group of college students was asked about their TV watching habits. Of those surveyed, 29 students watch The Walking Dead, 24 watch The Blacklist, and 27 watch Game of Thrones. Additionally, 10 watch The Walking Dead and The Blacklist, 13 watch The Walking Dead and Game of Thrones, and 17 watch The Blacklist and Game of Thrones. There are 8 students who watch all three shows. How many students surveyed watched at least one of the shows?
 # #
