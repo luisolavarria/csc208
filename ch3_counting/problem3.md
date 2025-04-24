@@ -4,7 +4,7 @@ A group of college students was asked about their TV watching habits. Of those s
 # #
 # Counting Students Who Watched At Least One Show
 
-## Problem Statement
+## Problem:
 A group of college students was surveyed about their TV-watching habits. The numbers of students watching different shows are:
 
 - **$|W| = 29$** students watch *The Walking Dead*.
@@ -22,11 +22,8 @@ Applying the **Inclusion-Exclusion Principle**:
 
 $$ |W \cup B \cup G| = |W| + |B| + |G| - |W \cap B| - |W \cap G| - |B \cap G| + |W \cap B \cap G| $$
 
-Substituting the given values:
-
 $$ |W \cup B \cup G| = 29 + 24 + 27 - 10 - 13 - 17 + 8 $$
 
-Performing the calculation:
 
 $$ 80 - 40 + 8 = 48 $$
 
