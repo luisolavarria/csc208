@@ -6,7 +6,8 @@ We roll six dice, each with five faces labeled \( \{1,2,3,4,5\} \). Since the or
 
 $$
 \binom{n+r-1}{r} = \frac{(n + r - 1)!}{r!(n-1)!}
-$$
+$$    
+
 where we roll five regular 6-sided dice:
 - \( n = 6 \) (number of distinct die faces),
 - \( r = 5 \) (number of dice rolled).
