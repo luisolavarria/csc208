@@ -1,5 +1,5 @@
 
-We roll six dice, each with five faces labeled \( \{1,2,3,4,5\} \). Since the order of the dice does not matter, we need to count the number of possible unordered outcomes.
+#### We roll five dice, each with six faces. Since the order of the dice does not matter, we need to count the number of possible unordered outcomes.
   ### We apply the Stars and Bars Formula:
 
 
@@ -15,6 +15,7 @@ where we roll five regular 6-sided dice:
 
 $$\binom{6 + 5 - 1}{5} = \binom{10}{5} = \frac{10!}{5!(10-5)!} = \frac{10!}{5!5!} = 252$$
 
+#### Now we roll six dice, each with five faces. Since the order of the dice does not matter, we need to count the number of possible unordered outcomes.
 
 where we roll six regular 5-sided dice:
 - \( n = 5 \) (number of distinct die faces),
