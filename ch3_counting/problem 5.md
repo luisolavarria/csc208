@@ -6,7 +6,9 @@
 
 $$
 \binom{n+r-1}{r} = \frac{(n + r - 1)!}{r!(n-1)!}
-$$    
+$$      
+
+ 
 For Yahtzee (5 dice, 6 faces):
 where we roll five regular 6-sided dice:
 - \( n = 6 \) (number of distinct die faces),
