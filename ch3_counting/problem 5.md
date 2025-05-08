@@ -1,4 +1,5 @@
 
+## Part 1
 #### We roll five dice, each with six faces. Since the order of the dice does not matter, we treat identical rolls as the same outcome. This means instead of considering all possible ordered sequences, we count only the distinct groups of dice results.
   ### We apply the Stars and Bars Formula:
 
@@ -16,7 +17,7 @@ where we roll five regular 6-sided dice:
 
 
 $$\binom{6 + 5 - 1}{5} = \binom{10}{5} = \frac{10!}{5!(10-5)!} = \frac{10!}{5!5!} = 252$$
-
+## Part 2
 #### Now we roll six dice, each with five faces. Since the order of the dice does not matter, we need to count the number of possible unordered outcomes.
 For Super-Yahtzee (5 dice, 6 faces):
 where we roll six regular 5-sided dice:
