@@ -1,8 +1,8 @@
 
 We are given two sets:
 
-- $$ A = \{x ∈ℕ : 4 \leq x < 16\} $$
-- $$ B = \{x ∈ℕ  : x  \} $$
+-  A = \{x ∈ℕ : 4 \leq x < 16\} 
+-  B = \{x ∈ℕ  : x  \} 
 
 Let's list the elements explicitly:
 
