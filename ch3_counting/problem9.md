@@ -24,7 +24,7 @@ The intersection of two sets includes all elements that are **common to both** s
 
 ## b. Find  A \ B  
 
-The difference \( $$A \setminus B$$ \) includes all elements that are in \( A \) **but not** in \( B \). 
+The difference \( A \ B \) includes all elements that are in \( A \) **but not** in \( B \). 
 
 - Elements in \( A \) that are not even:  
    A \ B = \{5, 7, 9, 11, 13, 15\}
