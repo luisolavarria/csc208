@@ -2,12 +2,12 @@
 We are given two sets:
 
 -  A = \{x ∈ℕ : 4 ≤ x < 16\} 
--  B = \{x ∈ℕ  : x  \} 
+-  B = \{x ∈ℕ  : x even \} 
 
 Let's list the elements explicitly:
 
 -  A = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15} 
--  B = {2, 4, 6, 8, 10, 12, 14, 16,} 
+-  B = {2, 4, 6, 8, 10, 12, 14, 16,...} 
 
 ---
 
