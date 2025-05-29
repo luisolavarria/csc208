@@ -1,8 +1,8 @@
 
 We are given two sets:
 
-- $$ A = \{x \in \mathbb{N} : 4 \leq x < 16\} $$
-- $$ B = \{x \in \mathbb{N} : x \text{ is even}\} $$
+-  A = \{x \in \mathbb{N} : 4 \leq x < 16\} 
+-  B = \{x \in \mathbb{N} : x \text{ is even}\} 
 
 Let's list the elements explicitly:
 
@@ -11,7 +11,7 @@ Let's list the elements explicitly:
 
 ---
 
-## a. Find \($$ A \cap B $$\) (Intersection)
+## a. Find \( A \cap B \) (Intersection) 
 
 The intersection of two sets includes all elements that are **common to both** sets.
 
@@ -22,10 +22,10 @@ The intersection of two sets includes all elements that are **common to both** s
 
 ---
 
-## b. Find \( A \setminus B \) (Difference)
+## b. Find \( A \ B \) (Difference)
 
-The difference \( $$A \setminus B$$ \) includes all elements that are in \( A \) **but not** in \( B \). 
+The difference \( A \ B \) includes all elements that are in \( A \) **but not** in \( B \). 
 
 - Elements in \( A \) that are not even:
-  $$ A \setminus B = \{5, 7, 9, 11, 13, 15\}$$
+  A \ B = \{5, 7, 9, 11, 13, 15\}
 
