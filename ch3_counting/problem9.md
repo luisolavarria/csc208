@@ -1,8 +1,8 @@
 
 We are given two sets:
 
-- $$ A = \{x \in \mathbb{N} : 4 \leq x < 16\} $$
-- $$ B = \{x \in \mathbb{N} : x \text{ is even}\} $$
+- $$ A = \{x ∈ℝ\mathbb{N} : 4 \leq x < 16\} $$
+- $$ B = \{x ∈ℝ\mathbb{N}  : x  \} $$
 
 Let's list the elements explicitly:
 
