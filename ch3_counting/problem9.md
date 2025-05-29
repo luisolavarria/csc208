@@ -17,7 +17,7 @@ The intersection of two sets includes all elements that are **common to both** s
 
 - Elements in both \( A \) and \( B \):  
   $$
-  A \cap B = \{4, 6, 8, 10, 12, 14\}
+  A ∩ B = \{4, 6, 8, 10, 12, 14\}
   $$
 
 ---
@@ -26,6 +26,6 @@ The intersection of two sets includes all elements that are **common to both** s
 
 The difference \( $$A \setminus B$$ \) includes all elements that are in \( A \) **but not** in \( B \). 
 
-- Elements in \( A \) that are not even:
-  $$ A \setminus B = \{5, 7, 9, 11, 13, 15\}$$
+- Elements in \( A \) that are not even:  
+   A \ B = \{5, 7, 9, 11, 13, 15\}
 
