@@ -11,14 +11,14 @@ Let's list the elements explicitly:
 
 ---
 
-## a. Find  $$A \cap B $$
+## a. Find  A ∩ B 
 
 The intersection of two sets includes all elements that are **common to both** sets.
 
 - Elements in both \( A \) and \( B \):  
-  $$
+  
   A ∩ B = \{4, 6, 8, 10, 12, 14\}
-  $$
+  
 
 ---
 
