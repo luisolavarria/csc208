@@ -1,7 +1,7 @@
 
 We are given two sets:
 
- $$ A = \{x \in \mathbb{N} : 4 \leq x < 16\} $$
+- $$ A = \{x \in \mathbb{N} : 4 \leq x < 16\} $$
 - $$ B = \{x \in \mathbb{N} : x \text{ is even}\} $$
 
 Let's list the elements explicitly:
